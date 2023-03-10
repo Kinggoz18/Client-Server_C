@@ -1,0 +1,7 @@
+A simple text file to test to test my code.
+a path that traverses all of the bridges/edges only once. Since then, graph theory has been introduced and 
+applied in many different areas over time other than computer science, such as DNA sequencing in biology and the 
+“Study of molecules and atoms in chemistry” (What is Graph Theory, and why should you care?, 2020). Later on, around 1956 Edsger 
+Dijkstra would come to invent the famous shortest path algorithm for graphs.
+The properties of any graph are its vertices and edges, but graphs can be a very versatile data
+
